@@ -20,4 +20,5 @@
  *  - Added actor.php
  *  - Edited Welcome.php
  *  - Edited homepage.php 
+ *  - Edited actor.php 
  */
