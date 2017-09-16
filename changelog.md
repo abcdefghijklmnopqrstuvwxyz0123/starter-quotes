@@ -12,4 +12,6 @@
 /*
  * Changelog (Newest -> Oldest)
  *  - Added changelog.md file to project root (09/14/2017)
+ *  - Added Sosig.png
+ *  - Added new quote for Sosig.png
  */
