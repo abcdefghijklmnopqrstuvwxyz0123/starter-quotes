@@ -10,10 +10,14 @@
  */
 
 /*
- * Changelog (Newest -> Oldest)
+ * Changelog (Oldest -> Newest)
  *  - Added changelog.md file to project root (09/14/2017)
  *  - Added sosig.png
  *  - Added new quote for sosig.png
  *  - Changed sosig filetype to jpg
  *  - Changed Quotes.php to display sosig
+ *  - Added in tooltips for homepage.php
+ *  - Added actor.php
+ *  - Edited Welcome.php
+ *  - Edited homepage.php 
  */
