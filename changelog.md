@@ -12,6 +12,8 @@
 /*
  * Changelog (Newest -> Oldest)
  *  - Added changelog.md file to project root (09/14/2017)
- *  - Added Sosig.png
- *  - Added new quote for Sosig.png
+ *  - Added sosig.png
+ *  - Added new quote for sosig.png
+ *  - Changed sosig filetype to jpg
+ *  - Changed Quotes.php to display sosig
  */
