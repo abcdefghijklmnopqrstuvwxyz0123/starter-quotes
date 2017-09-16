@@ -16,4 +16,5 @@
  *  - Added new quote for sosig.png
  *  - Changed sosig filetype to jpg
  *  - Changed Quotes.php to display sosig
+ *  - Added in tooltips for homepage.php
  */
