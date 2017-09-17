@@ -21,4 +21,5 @@
  *  - Edited Welcome.php
  *  - Edited homepage.php 
  *  - Edited actor.php 
+ *  - Added in actor quotes
  */
